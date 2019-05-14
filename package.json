@@ -1,5 +1,5 @@
 {
-  "name": "docdash",
+  "name": "@mareoraft/docdash",
   "version": "1.1.1",
   "description": "A clean, responsive documentation template theme for JSDoc 3 inspired by lodash and minami",
   "main": "publish.js",
@@ -10,15 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/clenemt/docdash.git"
+    "url": "git+https://github.com/MareoRaft/docdash.git"
   },
   "devDependencies": {
     "jsdoc": "latest",
     "browser-sync": "latest",
     "watch-run": "latest"
   },
-  "author": "Clement Moron <clement.moron@gmail.com>",
+  "author": "Clement Moron <clement.moron@gmail.com>, Matthew Lancellotti",
   "license": "Apache-2.0",
+  "homepage": "https://github.com/MareoRaft/docdash",
   "keywords": [
     "jsdoc",
     "template"
